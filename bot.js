@@ -183,19 +183,14 @@ client.on('ready', async() => {
     const server = "492747482942406656"; // ايدي السررفر
 const channel = "492747482942406659";//ايدي الروم
     setInterval(()=>{
-    client.guilds.get(server).channels.get(channel).send(`**كودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودز
-    كودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودز
-    كودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودز  
-    كودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودز
-    **`)//spamming message.
+    client.guilds.get(server).channels.get(channel).send(`**كودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكود  **`)//spamming message.
 },1);//Delay Time
 })
 client.on('ready', async() => {
     const server = "492747482942406656"; // ايدي السررفر
 const channel = "514939221715189781";//ايدي الروم
         setInterval(()=>{
-        client.guilds.get(server).channels.get(channel).send(`*ssssssssssssssssssssdadasdadasidjapoidnadipkandsaidjha0piwdawnidkkkkkdkdkdkdkdkdkmsaddaopidwdmaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawsakllmdsa;kkkkkdmsdk;samnkcnaksdnaaaaaaaaaasjfakjandjakdnakl
-        **`)//spamming message.
+        client.guilds.get(server).channels.get(channel).send(`*ssssssssssssssssssssdadasdadasidjapoidnadipkandsaidjha0piwdawnidkkkkkdkdkdkdkdkdkmsaddaopidwdmaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawsakllmdsa;kkkkkdmsdk;samnkcnaksdnaaaaaaaaaasjfakjandjakdnakl**`)//spamming message.
     },305);//Delay Time
     })
 
