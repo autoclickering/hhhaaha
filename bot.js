@@ -1,5 +1,5 @@
-const ServerID = "492747482942406656"; //اي دي السيرفر
-const ChannelID = "492747482942406659";// اي دي الروم
+const ServerID = "499213116941533184"; //اي دي السيرفر
+const ChannelID = "502827265281884161";// اي دي الروم
 
 console.log(`
  
@@ -134,7 +134,7 @@ client.on('error', console.error);
 // ShaDoW_MaN
 
 
-client.on('ready', () => console.log('ProBot Credits Miner Discord.js Script','\n','By Zeyad,Royale','\n','ProBot credits miner is ready!'));// ShaDoW_MaN
+client.on('ready', () => console.log('ProBot Credits Miner Discord.js Script','\n','By Top','\n','ProBot credits miner is ready!'));// ShaDoW_MaN
 
 client.on('disconnect', () => console.log('PROBOT credits miner had disconnected!'));
 
