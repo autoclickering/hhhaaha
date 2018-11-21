@@ -160,4 +160,29 @@ function timerFunc() {
 }
 
 
+
+client.on('ready', function(){    
+    var ms = 4000 ;    
+    var setGame = [`»Premium..`,"»Top","Welcome Back","♥"];    
+    var i = -1;    
+    var j = 0;    
+    setInterval(function (){    
+        if( i == -1 ){    
+j = 1;    
+       }    
+        if( i == (setGame.length)-1 ){    
+            j = -1;    
+      }    
+       i = i+j;    
+        client.user.setGame(setGame[i],`http://twitch.tv/quastyle11`);    
+}, ms);    
+    
+});
+
+
+
+
+
+
+
 client.login(process.env.BOT_TOKEN)
